@@ -1,5 +1,5 @@
-Ansible Mongo for ELU 504
-=========================
+ansible-mongo-elu504
+====================
 
 Install a replicated MongoDB
 
