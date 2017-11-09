@@ -1,8 +1,8 @@
 ---
 galaxy_info:
   author: vanoise
-  description: 'for elu 504'
-  company: IMT-A
+  description: 'Slight adaptation of greendayonfire.mongodb for elu 504 module'
+  company: IMT Atlantique
   license: GPLv2
   min_ansible_version: 1.2
   platforms:
@@ -11,6 +11,6 @@ galaxy_info:
         - precise
         - trusty
   galaxy_tags:
-    - system
-    - hardening
+    - database
+    - mongo
 dependencies: []

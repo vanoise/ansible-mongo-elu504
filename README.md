@@ -8,11 +8,6 @@ Requirements
 
 No specific requirements
 
-Role Variables
---------------
-
-mongo_db_user
-
 Dependencies
 ------------
 
