@@ -28,7 +28,7 @@ mongodb_users:
     password: passw0rd,
     roles: readWrite,
     database: app_development
-}
+    }
 
 License
 -------
